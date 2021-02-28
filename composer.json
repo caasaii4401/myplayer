@@ -1,0 +1,40 @@
+{
+    "name": "yuanhuan/myplayer",
+    "description": "一款实用的多功能插件 | A powerful flarum integrated plug-in",
+    "keywords": [
+      "flarum","Aplayer","Dplayer","bilibili","Donate"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "require": {
+      "php": ">=7.2",
+      "flarum/core": ">=0.1.0-beta.13 <0.1.0-beta.20"
+    },
+    "authors": [
+      {
+        "name": "yuanhuan",
+        "email": "lechunqiu@outlook.com",
+        "role": "Owner and Author"
+      }
+    ],
+    "autoload": {
+      "psr-4": {
+        "yuanhuan\\myplayer\\": "src/"
+      }
+    },
+    "extra": {
+      "flarum-extension": {
+        "title": "myplayer",
+        "icon": {
+          "name": "fas fa-bars",
+          "backgroundColor": "#ff9191",
+          "color": "#FFFFFF"
+        }
+      },
+      "minimum-stability": "dev",
+      "flagrow": {
+        "discuss": "https://g-7.net"
+      }
+    }
+  }
+  
