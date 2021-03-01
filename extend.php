@@ -1,4 +1,4 @@
-<?php namespace peartown\plusplugin;
+<?php namespace yuanhuanonline\myplayer;
  use Flarum\Extend;
  use s9e\TextFormatter\Configurator;
  use Flarum\Frontend\Document;
