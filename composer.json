@@ -19,7 +19,7 @@
     ],
     "autoload": {
       "psr-4": {
-        "yuanhuan\\myplayer\\": "src/"
+        "yuanhuanonline\\myplayer\\": "src/"
       }
     },
     "extra": {
