@@ -1,4 +1,4 @@
-<?php namespace yuanhuanonline\myplayer;
+<?php namespace yuanhuan\myplayer;
  use Flarum\Extend;
  use s9e\TextFormatter\Configurator;
  use Flarum\Frontend\Document;
